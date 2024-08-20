@@ -44,7 +44,7 @@ ul li a:hover{
 }
 
 .header{
-    background-image: url(img/fondo4.jpg);
+    background-image: url(fondo4.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -195,7 +195,7 @@ button:hover{
     flex-wrap: wrap;
     width:50px;
     height:40px;
-    background-image: url(img/icono2.png);
+    background-image: url(icono2.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
